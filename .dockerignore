@@ -1,0 +1,9 @@
+app/input/*
+app/output/*
+*.pdf
+*.json
+__pycache__/
+*.pyc
+*.ipynb
+*.log
+wheelhouse/
